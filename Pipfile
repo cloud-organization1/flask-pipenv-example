@@ -11,5 +11,3 @@ gunicorn = "*"
 pytest = "*"
 pytest-flask = "*"
 
-[requires]
-python_version = "3.7"
