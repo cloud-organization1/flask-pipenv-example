@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 flask = "*"
 gunicorn = "*"
+click = ">=8.0.0"
+markupsafe = ">=2.1.0"
 
 [dev-packages]
 pytest = "*"
