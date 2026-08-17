@@ -1,6 +1,6 @@
 # Flask Pipenv Example
 
-Flask application using Pipenv and Docker.
+Flask application using Pipenv and Docker.s
 
 ## Running locally
 
