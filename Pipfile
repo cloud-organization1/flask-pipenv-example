@@ -13,3 +13,5 @@ markupsafe = ">=2.1.0"
 pytest = "*"
 pytest-flask = "*"
 
+[pipenv]
+PYTHONIOENCODING = "utf-8"
